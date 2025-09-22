@@ -52,7 +52,7 @@ Excel – source dataset (Store Data)
 Data Cleaning & Transformation – done within Power BI (Power Query)
 
 ### 📸 Dashboard Snapshot
-![Dashboard Page 1]()
+![Dashboard Page 1](https://github.com/Akshayjadhav04/ElectroHub-Sales-Analysis/blob/5609c78fab072045a322c1b9707cf8dd16567912/project1_page-0001.jpg)
 
 ![Dashboard Page 1]()
 
