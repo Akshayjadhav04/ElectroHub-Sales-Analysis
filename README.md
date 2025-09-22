@@ -54,11 +54,15 @@ Data Cleaning & Transformation – done within Power BI (Power Query)
 ### 📸 Dashboard Snapshot
 ![Dashboard Page 1](https://github.com/Akshayjadhav04/ElectroHub-Sales-Analysis/blob/5609c78fab072045a322c1b9707cf8dd16567912/project1_page-0001.jpg)
 
-![Dashboard Page 1](https://github.com/Akshayjadhav04/ElectroHub-Sales-Analysis/blob/5609c78fab072045a322c1b9707cf8dd16567912/project1_page-0002.jpg)
+![Dashboard Page 2](https://github.com/Akshayjadhav04/ElectroHub-Sales-Analysis/blob/5609c78fab072045a322c1b9707cf8dd16567912/project1_page-0002.jpg)
 
-![Dashboard Page 1]()
+![Dashboard Page 3](https://github.com/Akshayjadhav04/ElectroHub-Sales-Analysis/blob/5609c78fab072045a322c1b9707cf8dd16567912/project1_page-0003.jpg)
 
+![Dashboard Page 4](https://github.com/Akshayjadhav04/ElectroHub-Sales-Analysis/blob/5609c78fab072045a322c1b9707cf8dd16567912/project1_page-0004.jpg)
 
+![Dashboard Page 5](https://github.com/Akshayjadhav04/ElectroHub-Sales-Analysis/blob/5609c78fab072045a322c1b9707cf8dd16567912/project1_page-0005.jpg)
+
+![Dashboard Page 6](https://github.com/Akshayjadhav04/ElectroHub-Sales-Analysis/blob/5609c78fab072045a322c1b9707cf8dd16567912/project1_page-0006.jpg)
 
 ## 🔑 Key Learnings
 
@@ -87,9 +91,9 @@ Forecast future sales using Power BI AI features.
 Create role-based dashboards for different stakeholders.
 
 ## 👨‍💻 Author
+**Jadhav Akshay Kumar**  
+🎓 B.Tech – Electronics & Communication Engineering, IIT (ISM) Dhanbad  
+🌐 Connect with me:  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jadhav-akshay-kumar-835b22289/)  
+💻 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Akshayjadhav04)
 
-Jadhav Akshay Kumar
-
-🎓 B.Tech – Electronics & Communication Engineering, IIT (ISM) Dhanbad
-
-🔗 [LinkedIn-https://www.linkedin.com/in/jadhav-akshay-kumar-835b22289//GitHub Profile Link-github.com/Akshayjadhav04]
