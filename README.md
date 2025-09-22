@@ -53,8 +53,6 @@ Data Cleaning & Transformation – done within Power BI (Power Query)
 
 ## 📈 Dashboard Preview
 
-(Add a screenshot of your dashboard here)
-
 ![Dashboard Preview](screenshot.png)
 
 ## 🔑 Key Learnings
