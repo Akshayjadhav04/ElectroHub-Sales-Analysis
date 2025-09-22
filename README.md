@@ -51,9 +51,14 @@ Excel – source dataset (Store Data)
 
 Data Cleaning & Transformation – done within Power BI (Power Query)
 
-## 📈 Dashboard Preview
+### 📸 Dashboard Snapshot
+![Dashboard Page 1]()
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Page 1]()
+
+![Dashboard Page 1]()
+
+
 
 ## 🔑 Key Learnings
 
